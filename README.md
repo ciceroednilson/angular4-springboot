@@ -15,12 +15,20 @@
 
 <p>O serviço feito no Spring Boot está sendo executado no Tomcat Embedded na porta 8090 que está configurado no arquivo application.properties</p>
 
-<h2>Criando o projeto com Angular Cli.</h2>
+
+<h2>Executando o projeto do Angular.</h2>
+
+<p>Para executar o projeto do Angular você precisar apenas entrar na pasta através do comando cd app-site e depois executar o comando ng serve --open.</p>
+
+
+
+
+<h2>Criando um novo projeto com Angular Cli.</h2>
 
 <p>O Angular CLI facilita a criação de um projeto com Angular, e já nos traz uma aplicação estruturada com as melhores práticas determinas para o Angular.
 Lembrando que  devemos ter o Node e o Npm instalado, depois que tivermos realizado a instalação do Node e do NPM devemos executar o comando abaixo para instalar o Angular CLI.<p/>
 
-<h3>Passo 1 - Instalando o Angular Cli</h3>
+<h3>Passo 1 - Instalando o Angular Cli.</h3>
 <code>
 npm install -g @angular/cli
 </code>
